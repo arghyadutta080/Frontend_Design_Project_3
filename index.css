@@ -303,7 +303,7 @@ textarea {
     content: "";
     position: absolute;
     z-index: -1;
-    background: url('contact_background.webp') no-repeat center center/cover;
+    background: url('contact_background.jpg') no-repeat center center/cover;
     height: 783px;
     width: 100%;
     opacity: 0.5;
