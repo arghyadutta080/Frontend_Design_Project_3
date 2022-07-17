@@ -17,7 +17,7 @@
 }
 
 #navbar ul {
-    padding: 5px 15px;
+    padding: 15px;
     margin: 5px 0px;
     top: 0;
     position: sticky;
@@ -55,7 +55,7 @@
 #body1 {
     width: 100%;
     text-align: center;
-    margin: 0px 9px;
+    margin: 3px 9px;
 }
 
 #body1 h1 {
